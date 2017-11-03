@@ -1,4 +1,4 @@
-#shadowsocks
+# shadowsocks
 
 https://github.com/shadowsocks/shadowsocks
 
@@ -7,7 +7,7 @@ windows 链接：http://pan.baidu.com/s/1bpo7XwV 密码：komp
 apk 链接：http://pan.baidu.com/s/1kU5ClM3 密码：ixo9
 
 
-## install in Uubuntu
+## install in Ubuntu
 ```
 apt-get install python-pip
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
